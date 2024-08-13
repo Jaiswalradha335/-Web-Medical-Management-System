@@ -73,7 +73,7 @@ Although you have installed and configured everyting properrly, you might have f
 A few dummy users are (available in the system):
 
 User Name  | Password | Uset Type
-------------- | ------------- | -----------
+------------- | ------------- | ----------
 doctor  | d | Doctor
 doctor2	| d | Doctor
 pharmacist |	p | Pharmacist
