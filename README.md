@@ -10,7 +10,7 @@ Project Overview
 This system will provide a graphical user interface to maintain the whole system, including prescribing patient, delivering medicine, maintaining medicine stock etc. Moreover, the new system will be accessible from terminals within the Medical Center and also through the internet from computers outside the Medical Center. Besides, the patients (both student and staff) can view their prescription through internet from anywhere. 
 
 Users
------
+
 1) **General User (Patient):** Student, Staff.
 
 2)	**Administrative User:** Doctor, Pharmacist, Store Officer, Medicine Distributor.
